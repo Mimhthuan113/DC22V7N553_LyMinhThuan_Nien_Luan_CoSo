@@ -836,8 +836,8 @@ ORDER BY d.ngay_lap DESC;
 
 **Tác giả:** Lý Minh Thuần  
 **Mã Sinh Viên:** DC22V7N553  
-**Email:** [your-email@example.com]  
-**Phone:** [your-phone-number]
+**Email:** lyminhthuan.dhbk@gmail.com
+**Phone:** 0853413780
 
 ---
 
